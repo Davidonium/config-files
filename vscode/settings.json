@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 14,
+    "editor.letterSpacing": 1.2,
+    "editor.fontFamily": "'Meslo LG M Regular for Powerline', Menlo, Monaco, 'Courier New', monospace",
+    "workbench.colorTheme": "Monokai",
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "workbench.editor.showTabs": false,
+    "debug.console.fontSize": 14,
+    "debug.console.lineHeight": 1.2,
+    "files.autoSave": "afterDelay"
+}
